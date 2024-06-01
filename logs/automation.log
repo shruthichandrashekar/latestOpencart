@@ -1,0 +1,24 @@
+19:55:31.681 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:55:31.718 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:55:31.722 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:55:31.723 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:55:31.754 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:55:31.755 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:55:31.757 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:55:31.783 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:55:31.784 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:55:31.788 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:55:31.827 [main] INFO  testCases.TC_003_LoginDDT - *** Starting LoginDDT test ***
+19:55:33.057 [main] INFO  testCases.TC_003_LoginDDT - *** Clicked login from home page ***
+19:55:33.303 [main] INFO  testCases.TC_003_LoginDDT - Providing login details
+19:55:35.001 [main] INFO  testCases.TC_003_LoginDDT - *** Finished LoginDDT test ***
+19:55:35.008 [main] INFO  testCases.TC_003_LoginDDT - *** Starting LoginDDT test ***
+19:55:35.480 [main] INFO  testCases.TC_003_LoginDDT - *** Clicked login from home page ***
+19:55:35.682 [main] INFO  testCases.TC_003_LoginDDT - Providing login details
+19:55:37.247 [main] INFO  testCases.TC_003_LoginDDT - *** Starting LoginDDT test ***
+19:55:37.674 [main] INFO  testCases.TC_003_LoginDDT - *** Clicked login from home page ***
+19:55:37.867 [main] INFO  testCases.TC_003_LoginDDT - Providing login details
+19:55:39.471 [main] INFO  testCases.TC_003_LoginDDT - *** Starting LoginDDT test ***
+19:55:39.913 [main] INFO  testCases.TC_003_LoginDDT - *** Clicked login from home page ***
+19:55:40.101 [main] INFO  testCases.TC_003_LoginDDT - Providing login details
+19:55:41.651 [main] INFO  testCases.TC_003_LoginDDT - *** Finished LoginDDT test ***

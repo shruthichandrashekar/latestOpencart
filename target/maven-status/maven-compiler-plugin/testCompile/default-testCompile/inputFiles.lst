@@ -1,0 +1,12 @@
+C:\Users\shc\eclipse-workspace\nopcommerce\src\test\java\pageObject\AccountRegistration.java
+C:\Users\shc\eclipse-workspace\nopcommerce\src\test\java\pageObject\BasePage.java
+C:\Users\shc\eclipse-workspace\nopcommerce\src\test\java\pageObject\HomePage.java
+C:\Users\shc\eclipse-workspace\nopcommerce\src\test\java\pageObject\LoginPage.java
+C:\Users\shc\eclipse-workspace\nopcommerce\src\test\java\pageObject\MyAccountPage.java
+C:\Users\shc\eclipse-workspace\nopcommerce\src\test\java\testBase\BaseClass.java
+C:\Users\shc\eclipse-workspace\nopcommerce\src\test\java\testCases\TC_001_AccontRegistrationTest.java
+C:\Users\shc\eclipse-workspace\nopcommerce\src\test\java\testCases\TC_002_LoginTest.java
+C:\Users\shc\eclipse-workspace\nopcommerce\src\test\java\testCases\TC_003_LoginDDT.java
+C:\Users\shc\eclipse-workspace\nopcommerce\src\test\java\utilities\DataProviders.java
+C:\Users\shc\eclipse-workspace\nopcommerce\src\test\java\utilities\ExcelUtility.java
+C:\Users\shc\eclipse-workspace\nopcommerce\src\test\java\utilities\ExtentReportManager.java

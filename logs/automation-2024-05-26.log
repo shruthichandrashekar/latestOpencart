@@ -1,0 +1,63 @@
+19:21:13.127 [TestNG-tests-1] ERROR testCases.TC_001_Verify_Accont_Registration - Test failed
+19:21:14.655 [TestNG-tests-2] INFO  testCases.TC_001_Verify_Accont_Registration - *** Click Register button to register *** 
+19:21:14.731 [TestNG-tests-2] INFO  testCases.TC_001_Verify_Accont_Registration - *** Validate the confirmation msg *** 
+19:21:15.276 [TestNG-tests-2] INFO  testCases.TC_001_Verify_Accont_Registration - *** Click Continue *** 
+19:21:15.277 [TestNG-tests-2] INFO  testCases.TC_001_Verify_Accont_Registration - *** Ending of the Account Registration *** 
+19:59:02.421 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shc\eclipse-workspace\nopcommerce\master.xml"
+19:59:02.680 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shc\eclipse-workspace\nopcommerce\master.xml
+
+20:01:21.412 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shc\eclipse-workspace\nopcommerce\master.xml"
+20:01:21.676 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shc\eclipse-workspace\nopcommerce\master.xml
+
+20:03:55.277 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shc\eclipse-workspace\nopcommerce\master.xml"
+20:03:55.540 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shc\eclipse-workspace\nopcommerce\master.xml
+
+20:06:17.966 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shc\eclipse-workspace\nopcommerce\master.xml"
+20:06:18.249 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shc\eclipse-workspace\nopcommerce\master.xml
+
+20:10:12.977 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shc\eclipse-workspace\nopcommerce\master.xml"
+20:10:13.225 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shc\eclipse-workspace\nopcommerce\master.xml
+
+20:32:13.630 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shc\eclipse-workspace\nopcommerce\master.xml"
+20:32:13.892 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shc\eclipse-workspace\nopcommerce\master.xml
+
+20:33:39.492 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shc\eclipse-workspace\nopcommerce\master.xml"
+20:33:39.753 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shc\eclipse-workspace\nopcommerce\master.xml
+
+20:33:44.707 [main] INFO  testCases.TC_001_Verify_Accont_Registration - *** Starting Account Registration *** 
+20:33:45.426 [main] INFO  testCases.TC_001_Verify_Accont_Registration - *** Clicking Register Link *** 
+20:33:45.426 [main] INFO  testCases.TC_001_Verify_Accont_Registration - *** Providing customer info for registration *** 
+20:33:46.781 [main] INFO  testCases.TC_001_Verify_Accont_Registration - *** Click Register button to register *** 
+20:33:46.817 [main] INFO  testCases.TC_001_Verify_Accont_Registration - *** Validate the confirmation msg *** 
+20:33:47.336 [main] INFO  testCases.TC_001_Verify_Accont_Registration - *** Click Continue *** 
+20:33:47.336 [main] INFO  testCases.TC_001_Verify_Accont_Registration - *** Ending of the Account Registration *** 
+20:34:27.311 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shc\eclipse-workspace\nopcommerce\master.xml"
+20:34:27.564 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shc\eclipse-workspace\nopcommerce\master.xml
+
+19:16:24.366 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shc\eclipse-workspace\nopcommerce\master.xml"
+19:16:24.704 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shc\eclipse-workspace\nopcommerce\master.xml
+
+19:16:33.690 [main] INFO  testCases.TC_001_Verify_Accont_Registration - *** Starting Account Registration *** 
+19:16:34.477 [main] INFO  testCases.TC_001_Verify_Accont_Registration - *** Clicking Register Link *** 
+19:16:34.477 [main] INFO  testCases.TC_001_Verify_Accont_Registration - *** Providing customer info for registration *** 
+19:16:36.351 [main] INFO  testCases.TC_001_Verify_Accont_Registration - *** Click Register button to register *** 
+19:16:36.384 [main] INFO  testCases.TC_001_Verify_Accont_Registration - *** Validate the confirmation msg *** 
+19:16:36.926 [main] INFO  testCases.TC_001_Verify_Accont_Registration - *** Click Continue *** 
+19:16:36.926 [main] INFO  testCases.TC_001_Verify_Accont_Registration - *** Ending of the Account Registration *** 
+21:07:26.235 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shc\eclipse-workspace\nopcommerce\master.xml"
+21:07:26.650 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shc\eclipse-workspace\nopcommerce\master.xml
+
+21:07:49.664 [main] INFO  testCases.TC_001_AccontRegistrationTest - *** Starting Account Registration *** 
+21:07:57.038 [main] INFO  testCases.TC_001_AccontRegistrationTest - *** Clicking Register Link *** 
+21:07:57.038 [main] INFO  testCases.TC_001_AccontRegistrationTest - *** Providing customer info for registration *** 
+21:07:58.970 [main] INFO  testCases.TC_001_AccontRegistrationTest - *** Click Register button to register *** 
